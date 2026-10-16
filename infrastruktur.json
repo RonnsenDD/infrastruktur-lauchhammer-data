@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T05:52:14.277Z",
+  "generated": "2026-10-16T07:08:13.410Z",
   "parserVersion": "1.2.0",
   "location": {
     "city": "Lauchhammer",
@@ -29,19 +29,6 @@
       "area": "01979 Lauchhammer\r\nAn der Schwarzen Elster 1, 1z, 3, 3z, 4, 4a\r\nLiebenwerdaer Str. 46, 46*, 920X\r\nsowie alle informierten Anschlussnutzer",
       "start": "2026-10-16T12:00:00.000Z",
       "end": "2026-10-16T13:00:00.000Z",
-      "source": "MITNETZ Strom",
-      "sourceUrl": "https://services.mitnetz-strom.de/versorgungsunterbrechung/#/Versorgungsunterbrechungen",
-      "automatic": true
-    },
-    {
-      "id": "mitnetz-456462",
-      "category": "Strom",
-      "status": "Aktuell",
-      "title": "Geplante Versorgungsunterbrechung – MITNETZ",
-      "message": "Einsatz einer Netzersatzanlage (GVU-MS) — 01979 Lauchhammer\r\nAn der Schwarzen Elster 1, 1z, 3, 3z, 4, 4a\r\nLiebenwerdaer Str. 46, 46*, 920X\r\nsowie alle informierten Anschlussnutzer",
-      "area": "01979 Lauchhammer\r\nAn der Schwarzen Elster 1, 1z, 3, 3z, 4, 4a\r\nLiebenwerdaer Str. 46, 46*, 920X\r\nsowie alle informierten Anschlussnutzer",
-      "start": "2026-10-16T08:00:00.000Z",
-      "end": "2026-10-16T08:30:00.000Z",
       "source": "MITNETZ Strom",
       "sourceUrl": "https://services.mitnetz-strom.de/versorgungsunterbrechung/#/Versorgungsunterbrechungen",
       "automatic": true
